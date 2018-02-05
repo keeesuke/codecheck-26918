@@ -9,7 +9,7 @@ public class App {
 					}else if(args[0].equals("織田信長")){
 						System.out.println("Hello 織田信長!");
 					}else if(args[0].equals("codecheck")){
-						System.out.println("Hellow codecheck!");
+						System.out.println("Hello codecheck!");
 					}
 			}
 	}
